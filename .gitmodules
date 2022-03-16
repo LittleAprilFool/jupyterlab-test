@@ -1,0 +1,3 @@
+[submodule "jupyterlab-link-share"]
+	path = jupyterlab-link-share
+	url = https://github.com/jupyterlab-contrib/jupyterlab-link-share/
