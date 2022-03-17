@@ -1,4 +1,2 @@
 #!/bin/bash
-cd jupyterlab-link-share/
-python -m pip install .
-cd ../
+pip install jupyterlab-link-share
