@@ -1,4 +1,4 @@
 #!/bin/bash
-set -euo pipefail
-
-pip install jupyterlab-link-share
+cd jupyterlab-link-share/
+pip install -e .
+cd ../
